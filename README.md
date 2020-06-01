@@ -1,13 +1,16 @@
+# Hello 8)
+
+Src2 - 9 are different apps. To preview the apps, change the "src#" name to "src" and run ```npm start```
 **Disclaimer:** Keys are not committed so you need to generate your own keys for apps that need API keys
 
-# src2
+## src2
 
 App able to toggle between 2 languages
 
 **Demonstrates:**
 - React Context API
 
-# src3
+## src3
 
 App to tell weather based on user's geolocation
 
@@ -16,7 +19,7 @@ App to tell weather based on user's geolocation
 - How to use Semantic UI CSS offline :) (look at public folder!)
 - How to extract hook logic and make it a reusable component
 
-# src4
+## src4
 
 App to image search from Unsplash
 
@@ -26,21 +29,21 @@ App to image search from Unsplash
 - React Ref!!!
 - React useRef
 
-# src5
+## src5
 
 App to choose songs
 
 **Demonstrates:**
 - Practise Redux
 
-# src6
+## src6
 
 Exercise app to display time
 
 **Demonstrates:**
 - Practise Javascript's useInterval timing function with useState hook
 
-# src7
+## src7
 
 App to display blog posts
 
@@ -48,7 +51,7 @@ App to display blog posts
 - Practise Redux + Data fetching
 
 
-# src8
+## src8
 
 App to create and view video streams
 
@@ -57,7 +60,7 @@ App to create and view video streams
 - Learn how to handle Video data stream
 
 
-# src9
+## src9
 
 App to create and view Youtube videos
 
