@@ -3,6 +3,8 @@
 Src2 - 9 are different apps. To preview the apps, change the "src#" folder name to "src" and run ```npm start```
 
 **Disclaimer:** Keys are not committed so some apps may not work. You need to generate your own keys.
+
+
 ## src2
 
 App able to toggle between 2 languages
@@ -29,6 +31,9 @@ App to image search from Unsplash
 - React Ref!!!
 - React useRef
 
+*Requires Unsplash API key
+
+
 ## src5
 
 App to choose songs
@@ -53,12 +58,13 @@ App to display blog posts
 
 ## src8
 
-App to create and view video streams
+App to create and view video streams with Google user sign-in
 
 **Demonstrates:**
 - Practise Redux + Data fetching
 - Learn how to handle Video data stream
 
+*Requires Google OAuth Client ID
 
 ## src9
 
