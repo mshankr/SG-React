@@ -1,6 +1,6 @@
 # Hello 8)
 
-Src2 - 9 are different apps. To preview the apps, change the "src#" name to "src" and run ```npm start```
+Src2 - 9 are different apps. To preview the apps, change the "src#" folder name to "src" and run ```npm start```
 
 **Disclaimer:** Keys are not committed so some apps may not work. You need to generate your own keys.
 ## src2
